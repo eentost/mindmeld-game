@@ -15,12 +15,12 @@ An innovative multiplayer neural pattern matching game with Docker Compose based
 > "Connect the collective consciousness."
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMGPxxS0UdJsO8/giphy.gif" width="600" alt="Neural Network Animation">
+  <img src="https://raw.githubusercontent.com/logancyang/loss-landscape-anim/main/examples/landscape_anim.gif" width="600" alt="Neural Network Animation">
 </p>
 
 ### 🕹️ Interactive Neural Dashboard
 <p align="center">
-  <img src="https://media.giphy.com/media/1411TfO3vW5gTfQcM/giphy.gif" width="600" alt="Data Flow Animation">
+  <img src="https://raw.githubusercontent.com/markhliu/ml_animated/main/gif/gradient_descent_lr.gif" width="600" alt="Data Flow Animation">
 </p>
 
 ---
