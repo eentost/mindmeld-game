@@ -15,12 +15,12 @@ An innovative multiplayer neural pattern matching game with Docker Compose based
 > "Connect the collective consciousness."
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eHAmbXQ9Zw/3o7TKMGpxxS0uDjs08/giphy.gif" width="600" alt="Neural Network Animation">
+  <img src="https://i.giphy.com/3o7TKMGpxxS0uDjs08.gif" width="600" alt="Neural Network Animation">
 </p>
 
 ### 🕹️ Interactive Neural Dashboard
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eHAmbXQ9Zw/l41lTfO3vW5gTfQcM/giphy.gif" width="600" alt="Data Flow Animation">
+  <img src="https://i.giphy.com/l41lTfO3vW5gTfQcM.gif" width="600" alt="Data Flow Animation">
 </p>
 
 ---
@@ -36,6 +36,10 @@ An innovative multiplayer neural pattern matching game with Docker Compose based
 ---
 
 ## 🛠️ Technology Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flask,postgres,redis,docker,nginx,tailwind,py,js" />
+</p>
 
 ### Backend
 - **Framework**: Flask & Flask-SocketIO
