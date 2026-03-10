@@ -11,22 +11,17 @@ An innovative multiplayer neural pattern matching game with Docker Compose based
 
 ## 🎮 Visual Gameplay Preview
 
-### 🧠 Real-time Neural Pattern Matching
-> "Sync your mind with the network."
+### 🧠 Real-time Neural Synchronization
+> "Connect the collective consciousness."
 
-```text
-       NODE [A] <---- (SYNCING) ----> NODE [B]
-          |                            |
-          |       [MATCH FOUND!]       |
-          +---------- ⚡️⚡️⚡️ ----------+
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eHAmbXQ9Zw/3o7TKMGpxxS0uDjs08/giphy.gif" width="600" alt="Neural Network Animation">
+</p>
 
-### 🕹️ Interactive Dashboard (Preview)
-| Phase | Visualization | Status |
-| :--- | :--- | :--- |
-| **Neural Link** | `●---●---●` | [ACTIVE] |
-| **Data Flow** | `>>> >>> >>>` | [STABLE] |
-| **Pattern Match** | `[████████]` | [SUCCESS] |
+### 🕹️ Interactive Neural Dashboard
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eXB6eHAmbXQ9Zw/l41lTfO3vW5gTfQcM/giphy.gif" width="600" alt="Data Flow Animation">
+</p>
 
 ---
 
@@ -69,10 +64,6 @@ cp .env.example .env
 docker-compose up -d
 ```
 
-### 3. Access
-- **Game UI**: `http://localhost:3000`
-- **API Server**: `http://localhost:5000`
-
 ---
 
 ## 📜 Game Mechanics
@@ -87,30 +78,4 @@ Players are presented with a complex neural graph. Your goal is to identify the 
 
 ---
 
-## 📂 Project Structure
-
-```text
-mindmeld-game/
-├── backend/            # Flask API & WebSocket Engine
-│   ├── app.py          # Real-time game logic
-│   └── Dockerfile      # Optimized Python 3.11 image
-├── frontend/           # React + Vite Application
-│   ├── src/visuals/    # D3 & Three.js components
-│   └── Dockerfile      # Multi-stage Nginx build
-└── docker-compose.yml  # Full-stack orchestration
-```
-
----
-
-## 📈 Performance Monitoring
-
-The application includes built-in telemetry:
-- **Signal Latency**: Tracked via WebSockets.
-- **Node Health**: Monitored through Redis.
-- **Database Sync**: Managed by PostgreSQL health checks.
-
----
-
 **Made with ♥ by [eentost](https://github.com/eentost)**
-
-*“Unlock the potential of the collective mind.”*
